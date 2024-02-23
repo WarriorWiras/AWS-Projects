@@ -21,13 +21,21 @@ We are required to design and deploy cloud infrastructure to achieve similaritie
 ## Project Specification / Requirements
 
 Deploy a Virtual Private Cloud (VPC); ✔️
+
 Design and deploy a 2 tiers architecture on Cloud (Web-App Tier and DB Tier); ✔️
+
 Web-App tier uses apache web server and PHP application while Database tier uses MySQL. Use XAMPP software for the various tiers. ✔️
+
 Encrypt data in transit (using HTTPS) and data at rest; ✔️
+
 Set up the necessary security groups and IAM groups/users/roles; ✔️
+
 Deploy auto-scaling for Web-App tier; ✔️
+
 Develop a simple web service where read and write to the database are applicable; ✔️
+
 Backup and restoration of MySQL database using manual snapshot for Elastic Block Store (EBS); Store the EBS snapshot on AWS Simple Storage Service (S3).✔️
+
 Use AWS CloudTrail to monitor activities in the VPC. ✔️
 
 
